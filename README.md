@@ -1,93 +1,86 @@
-# Gift--Ngoveni-CPUT-Eporttfolio
-Work readiness e-Portfolio For ICT in Communication Networks -CPUT
-# 🎓 Gift Ngoveni | Final-Year Communication Networks Student | CPUT
+# My Digital Portfolio 
 
-Welcome to my **Digital Portfolio of Evidence** for the Work Readiness Training module at Cape Peninsula University of Technology. This portfolio presents my academic progress, project work, and reflections on my learning journey in the field of **ICT in Communication Networks**.
+- **Name:** Ngoveni Ndzalama Gift Ngoveni
+- **Student No.:** 230125239
+- **Course:** Diploma in Information and Communication Technology in Communication Networks
 
----
-
-## 📥 1. Collect – Artefacts from My Learning Experience
-
-Here is a collection of artefacts that document my educational and practical journey at CPUT:
-
-- 📄 [Network Design Project Report – Jones Hospital](./artefacts/Network_Design_Report.pdf)
-- 🖼️ [Hospital Network Topology Diagram (Packet Tracer)](./artefacts/Hospital_Topology_Diagram.png)
-- 📊 [Presentation Slides on Network Security and Redundancy](./artefacts/Presentation_Slides.pptx)
-- 📘 [Reflection Journal (PDF)](./artefacts/Reflection_Journal.pdf)
-- 🎥 [Video Presentation Placeholder](./artefacts/Video_Presentation_Link.txt)
-
-> All artefacts are located in the `artefacts/` folder of this repository.
+As a passionate IT student with a strong interest in Linux, networking, cybersecurity, and cloud computing, this portfolio reflects my growth and preparation for entering the tech industry. It showcases evidence of my development and personal reflections from the Work Readiness Training module.
 
 ---
 
-## 🧠 2. Select – Key Evidence of My Development
+## 1. Career Counselling
 
-### 📌 Network Design Project: Enhancing Hospital Infrastructure
+### Evidence
+I completed the Career Development course and gained valuable insight into the importance of setting goals, identifying hard skills, and planning my career path. The quizzes reinforced my understanding and helped me reflect on where I want to go in the IT field.
 
-**Project Description**  
-Designed a secure and redundant network for Jones Hospital using Cisco Packet Tracer. The project emphasized high availability, department segmentation using VLANs, and backup configurations.
 
-**Key Features:**
-- Three-tier architecture (core, distribution, access)
-- VLAN segmentation (e.g., Admin, Doctors, Labs)
-- Firewalls, ACLs, and switch port security
-- Redundant links and disaster recovery simulation
-- Backup solution integration using VEEAM
 
-**Tools Used:**
-- Cisco Packet Tracer
-- MS PowerPoint
-- Draw.io (for diagrams)
+##Reflection (STAR Technique) – Career Development Course
+   - **Situation:** As part of the Work Readiness module, I had to complete an online Career Development course to improve my understanding of goal-setting and career planning.
+   - **Task:** My goal was to complete the course and understand how career counselling can guide me in setting realistic IT career goals.
+   - **Action:** I worked through the lessons and quizzes, covering topics like hard skills, goal-setting, and career planning. I completed 80% of the course and answered all the quiz questions correctly.
+   - **Result:** I gained a better understanding of the importance of setting clear goals and planning ahead. This helped me confirm that I want to grow in the fields of networking and cybersecurity.
 
 ---
 
-## 🔍 3. Reflect – My Learning Journey
+## 2. Skills and Interests
 
-This project deepened my understanding of how to design secure and scalable networks for critical environments.
+### Evidence
+I completed the Skills and Interests course and it helped me understand the difference between hard, soft, and transferable skills. I also learned how my personal interests and values can guide my career choices in IT.. I also documented my interest in cybersecurity and ethical hacking.
 
-### ✨ What I Learned:
-- How to configure and simulate VLANs and ACLs
-- Best practices for network redundancy and failover
-- The importance of documentation and presentation in tech
 
-### 💡 How I Grew:
-- Improved my technical problem-solving and teamwork skills
-- Gained practical experience using industry-standard tools
-- Developed confidence in applying theory to real-world issues
 
----
-
-## 🔗 4. Connect – Summary of My Learning Evolution
-
-My journey through the Communication Networks program has connected theory with practice. Each artefact in this portfolio demonstrates my growth in network design, cybersecurity awareness, and professional readiness.
-
-This portfolio is not just a display of my work — it's evidence of my **dedication, learning evolution, and readiness to contribute to the IT and networking industry**.
+### Reflection (STAR Technique)
+  - **Situation:** I needed to clearly identify my skills and interests to plan my career path better.
+  - **Task:** Complete a skills audit and reflect on how my interests align with my goals.
+  - **Action:** I listed my current skills, rated my confidence in them, and took a personal interests survey.
+  - **Result:** I realized my strengths lie in Linux and networking, and I need to develop more transferable skills like scripting and communication.
 
 ---
 
-## 📁 Repository Structure
+## 3. Personality Assessment
 
-📂 artefacts/
-├── Network_Design_Report.pdf
-├── Hospital_Topology_Diagram.png
-├── Presentation_Slides.pptx
-├── Reflection_Journal.pdf
-├── Video_Presentation_Link.txt
+### Evidence
+I completed the Personality Assessment course and learned how matching personality types to career paths can improve job satisfaction and performance. The course helped me understand my traits and how they fit into the IT world.
 
-yaml
-Copy
-Edit
 
----
 
-## 📞 Contact
-
-**Name:** Gift Ngoveni  
-**Student Number:** 230125239  
-**University:** Cape Peninsula University of Technology  
-**Program:** ICT in Communication Networks  
-**Email:** your.email@example.com
+### Reflection (STAR Technique)
+- **Situation:** I wanted to understand how my personality influences my career choices and work style.
+- **Task:** Complete a personality assessment and interpret the results for career matching.
+- **Action:** I took the assessment seriously, answered honestly, and studied the descriptions of different personality types.
+- **Result:** I discovered that my personality fits well with roles that require practical problem-solving and attention to detail, like networking and cybersecurity.
 
 ---
 
-> “An e-portfolio is not just a collection of work—it's a record of growth, a story of learning, and a showcase of potential.”
+## 4. Create a CV
+
+### Evidence
+I completed the Create a CV course, which taught me how to structure and highlight my experience, skills, and education effectively. The course quizzes helped me understand what employers look for in each CV section.
+
+
+
+### Reflection (STAR Technique)
+- **Situation:** I needed to create a professional CV for job and internship applications.
+- **Task:** Learn how to organize my work experience, skills, and education in a clear and appealing way.
+- **Action:** I followed course guidance, used templates, and revised my CV based on quiz feedback.
+- **Result:** I now have a well-structured CV that clearly shows my qualifications and is ready for submission.
+
+---
+
+## 5. CV Submission
+
+### Evidence
+I completed the CV Submission process to be able to apply for internship opportunities. This helped me practice job hunting and understand how to present myself professionally online.
+
+
+
+### Reflection (STAR Technique)
+- **Situation**: I wanted to apply for real internship opportunities.
+- **Task**: Find a relevant internship and submit my CV.
+- **Action**: I searched for IT support and networking internships, found one, and applied.
+- **Result**: I gained experience in job searching and now feel confident applying for other roles too.
+
+---
+
+Thank you for viewing my portfolio. All feedback is welcome!
