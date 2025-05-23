@@ -28,6 +28,8 @@ I completed the Career Development course and gained valuable insight into the i
 ## 2. Skills and Interests
 
 ### Evidence
+![image](https://github.com/user-attachments/assets/9621d4f8-e407-40a2-808d-e7ce45cf599a)
+
 I completed the Skills and Interests course and it helped me understand the difference between hard, soft, and transferable skills. I also learned how my personal interests and values can guide my career choices in IT.. I also documented my interest in cybersecurity and ethical hacking.
 
 
@@ -43,6 +45,8 @@ I completed the Skills and Interests course and it helped me understand the diff
 ## 3. Personality Assessment
 
 ### Evidence
+![image](https://github.com/user-attachments/assets/b833f497-6e73-4d5a-a5d9-84f56dfffdc4)
+
 I completed the Personality Assessment course and learned how matching personality types to career paths can improve job satisfaction and performance. The course helped me understand my traits and how they fit into the IT world.
 
 
@@ -58,6 +62,8 @@ I completed the Personality Assessment course and learned how matching personali
 ## 4. Create a CV
 
 ### Evidence
+![image](https://github.com/user-attachments/assets/f80a4b5b-3088-48ae-b883-0f6ea124d7d6)
+
 I completed the Create a CV course, which taught me how to structure and highlight my experience, skills, and education effectively. The course quizzes helped me understand what employers look for in each CV section.
 
 
