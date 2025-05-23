@@ -11,6 +11,8 @@ As a passionate IT student with a strong interest in Linux, networking, cybersec
 ## 1. Career Counselling
 
 ### Evidence
+![image](https://github.com/user-attachments/assets/ece7225c-cc09-4af4-9d7c-49588275c880)
+
 I completed the Career Development course and gained valuable insight into the importance of setting goals, identifying hard skills, and planning my career path. The quizzes reinforced my understanding and helped me reflect on where I want to go in the IT field.
 
 
