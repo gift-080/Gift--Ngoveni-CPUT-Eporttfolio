@@ -81,6 +81,7 @@ I completed the Create a CV course, which taught me how to structure and highlig
 ### Evidence
 I completed the CV Submission process to be able to apply for internship opportunities. This helped me practice job hunting and understand how to present myself professionally online.
 
+[MY+CV.pdf](https://github.com/user-attachments/files/20418166/MY%2BCV.pdf)
 
 
 ### Reflection (STAR Technique)
