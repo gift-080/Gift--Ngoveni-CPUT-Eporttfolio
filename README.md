@@ -1,4 +1,4 @@
-# My Digital Portfolio 
+# My Digital Portfolio.
 
 - **Name:** Ngoveni Ndzalama Gift Ngoveni
 - **Student No.:** 230125239
@@ -8,9 +8,9 @@ As a passionate IT student with a strong interest in Linux, networking, cybersec
 
 ---
 
-## 1. Career Counselling
+## 1. Career Counselling.
 
-### Evidence
+### Evidence.
 ![image](https://github.com/user-attachments/assets/ece7225c-cc09-4af4-9d7c-49588275c880)
 
 I completed the Career Development course and gained valuable insight into the importance of setting goals, identifying hard skills, and planning my career path. The quizzes reinforced my understanding and helped me reflect on where I want to go in the IT field.
@@ -25,16 +25,16 @@ I completed the Career Development course and gained valuable insight into the i
 
 ---
 
-## 2. Skills and Interests
+## 2. Skills and Interests.
 
-### Evidence
+### Evidence.
 ![image](https://github.com/user-attachments/assets/9621d4f8-e407-40a2-808d-e7ce45cf599a)
 
 I completed the Skills and Interests course and it helped me understand the difference between hard, soft, and transferable skills. I also learned how my personal interests and values can guide my career choices in IT.. I also documented my interest in cybersecurity and ethical hacking.
 
 
 
-### Reflection (STAR Technique)
+### Reflection (STAR Technique).
   - **Situation:** I needed to clearly identify my skills and interests to plan my career path better.
   - **Task:** Complete a skills audit and reflect on how my interests align with my goals.
   - **Action:** I listed my current skills, rated my confidence in them, and took a personal interests survey.
@@ -42,16 +42,16 @@ I completed the Skills and Interests course and it helped me understand the diff
 
 ---
 
-## 3. Personality Assessment
+## 3. Personality Assessment.
 
-### Evidence
+### Evidence.
 ![image](https://github.com/user-attachments/assets/b833f497-6e73-4d5a-a5d9-84f56dfffdc4)
 
 I completed the Personality Assessment course and learned how matching personality types to career paths can improve job satisfaction and performance. The course helped me understand my traits and how they fit into the IT world.
 
 
 
-### Reflection (STAR Technique)
+### Reflection (STAR Technique).
 - **Situation:** I wanted to understand how my personality influences my career choices and work style.
 - **Task:** Complete a personality assessment and interpret the results for career matching.
 - **Action:** I took the assessment seriously, answered honestly, and studied the descriptions of different personality types.
@@ -59,7 +59,7 @@ I completed the Personality Assessment course and learned how matching personali
 
 ---
 
-## 4. Create a CV
+## 4. Create a CV.
 
 ### Evidence
 ![image](https://github.com/user-attachments/assets/f80a4b5b-3088-48ae-b883-0f6ea124d7d6)
@@ -68,7 +68,7 @@ I completed the Create a CV course, which taught me how to structure and highlig
 
 
 
-### Reflection (STAR Technique)
+### Reflection (STAR Technique).
 - **Situation:** I needed to create a professional CV for job and internship applications.
 - **Task:** Learn how to organize my work experience, skills, and education in a clear and appealing way.
 - **Action:** I followed course guidance, used templates, and revised my CV based on quiz feedback.
@@ -76,7 +76,7 @@ I completed the Create a CV course, which taught me how to structure and highlig
 
 ---
 
-## 5. CV Submission
+## 5. CV Submission.
 
 ### Evidence
 I completed the CV Submission process to be able to apply for internship opportunities. This helped me practice job hunting and understand how to present myself professionally online.
@@ -84,7 +84,7 @@ I completed the CV Submission process to be able to apply for internship opportu
 [MY+CV.pdf](https://github.com/user-attachments/files/20418166/MY%2BCV.pdf)
 
 
-### Reflection (STAR Technique)
+### Reflection (STAR Technique).
 - **Situation**: I wanted to apply for real internship opportunities.
 - **Task**: Find a relevant internship and submit my CV.
 - **Action**: I searched for IT support and networking internships, found one, and applied.
