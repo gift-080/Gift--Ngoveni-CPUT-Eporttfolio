@@ -1,8 +1,8 @@
 # My Digital Portfolio.
 
-- **Name:** Ngoveni Ndzalama Gift Ngoveni
-- **Student No.:** 230125239
-- **Course:** Diploma in Information and Communication Technology in Communication Networks
+- **Name:** Ngoveni Ndzalama Gift Ngoveni.
+- **Student No.:** 230125239.
+- **Course:** Diploma in Information and Communication Technology in Communication Networks.
 
 As a passionate IT student with a strong interest in Linux, networking, cybersecurity, and cloud computing, this portfolio reflects my growth and preparation for entering the tech industry. It showcases evidence of my development and personal reflections from the Work Readiness Training module.
 
