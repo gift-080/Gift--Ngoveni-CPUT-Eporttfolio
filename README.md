@@ -1,8 +1,8 @@
 # My Digital Portfolio  
 
-- **Name:** Fhumulani Setjie  
-- **Student No.:** 223094889  
-- **Course:** Diploma in Information and Communication Technology in Communication Networks  
+- **Name:** Ngoveni Ndzalama Gift
+- **Student No.:** 230125239  
+- **Course:** DIPLOMA IN INFORMATION AND COMMUNICATION TECHNOLOGY IN COMMUNICATION NETWORKS
 
 As a passionate IT student with a strong interest in Linux, networking, cybersecurity, and cloud computing, this portfolio reflects my growth and preparation for entering the tech industry. It showcases evidence of my development and personal reflections from the Work Readiness Training module.  
 
@@ -15,7 +15,8 @@ I completed the **Business Communication** course, which helped me understand ho
 Through the lessons and quizzes, I learned about different communication types, when to use formal language, and the importance of maintaining a professional tone in business emails.  
 
 **Attached Evidence:**  
-📎 <img width="1708" height="676" alt="image" src="https://github.com/user-attachments/assets/258ca951-2c73-48cb-9309-bbd6521c6f50" />
+📎 <<img width="1536" height="871" alt="Gift" src="https://github.com/user-attachments/assets/d43c484c-0b40-4a1c-a94e-319d9a949716" />
+ />
 
 ---
 
