@@ -17,6 +17,8 @@ Through the lessons and quizzes, I learned about different communication types, 
 **Attached Evidence:**  
 📎 <img width="1893" height="1002" alt="Screenshot 2025-10-15 210306" src="https://github.com/user-attachments/assets/0b05a798-577f-4ba4-b413-c7730e36b5c4" />
  <img width="1914" height="1004" alt="Screenshot 2025-10-15 210347" src="https://github.com/user-attachments/assets/81abe7ba-799c-4ae8-97bf-4a562368ed7a" />
+ <img width="1780" height="758" alt="Screenshot 2025-10-15 210511" src="https://github.com/user-attachments/assets/c7cabe94-7f08-45c5-a345-efb0d2153def" />
+
 
 
 ---
