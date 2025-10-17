@@ -61,12 +61,10 @@ I completed the course with a **100% score**, showing strong comprehension of th
 
 ### EVIDENCE.  
 I submitted a mock interview video to demonstrate my interview delivery, body language, and response structure.  
-You can watch it [here](https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/blob/bd63b791e5cf1cea0db253144e0071da0616400f/Mock%20Interview(2).mp4).  
+You can watch it [here].
+https://github.com/wil-it2025/cv-tutorial-gift-080/blob/main/MY%20VIDEO.mp4
 
-<video width="640" controls>
-  <source src="https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/blob/bd63b791e5cf1cea0db253144e0071da0616400f/Mock%20Interview(2).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>  
+ 
 
 ---
 
