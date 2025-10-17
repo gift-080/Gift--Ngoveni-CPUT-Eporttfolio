@@ -11,7 +11,7 @@ As a dedicated IT student with a strong passion for Linux, networking, cyber sec
 ## 1. BUSSINESS COMMUNICATION. 
 
 ### EVIDENCE. 
-I completed the **Business Communication** course, which helped me understand how effective communication plays a key role in a professional environment.  
+I completed the Business Communication course, which helped me understand how effective communication plays a key role in a professional environment.  
 Through the lessons and quizzes, I learned about different communication types, when to use formal language, and the importance of maintaining a professional tone in business emails.  
 
 **Attached Evidence:**  
