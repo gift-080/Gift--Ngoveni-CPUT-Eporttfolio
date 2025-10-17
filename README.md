@@ -1,10 +1,10 @@
 # My Digital Portfolio  
 
-- **Name:** NGOVENI NDZALAMA GIFT  
-- **Student No.:** 230125239  
-- **Course:** DIPLOMA IN INFORMATION AND COMMUNICATION TECHNOLOGY IN COMMUNICATION NETWORKS. 
-
-As a passionate IT student with a strong interest in Linux, networking, cybersecurity, and cloud computing, this portfolio reflects my growth and preparation for entering the tech industry. It showcases evidence of my development and personal reflections from the Work Readiness Training module.  
+- **FULL NAMES:** NGOVENI NDZALAMA GIFT  
+- **STUDENT NO.:** 230125239  
+- **COURSE:** DIPLOMA IN INFORMATION AND COMMUNICATION TECHNOLOGY IN COMMUNICATION NETWORKS.
+   
+As a dedicated IT student with a strong passion for Linux, networking, cyber security, and cloud computing, this portfolio demostrates my professional growth and readiness to enter the technology industry. It presents clear evidence of my skill development and personal reflections gained through the work Readiness Training module. 
 
 ---
 
