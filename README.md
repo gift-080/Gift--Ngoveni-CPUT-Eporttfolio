@@ -27,15 +27,15 @@ Through the lessons and quizzes, I learned about different communication types, 
 - **Situation:** As part of the Work Readiness Training, I was required to complete an online Business Communication course to enhance my professional communication skills.  
 - **Task:** My goal was to learn the proper use of language, tone, and etiquette in both written and verbal communication within the workplace.  
 - **Action:** I completed the course modules and quizzes, focusing on topics like non-verbal communication, formal vs informal tone, email etiquette, and video conferencing professionalism.  
-- **Result:** I achieved an overall score of **80%**. The course improved my understanding of how to communicate clearly and respectfully in a professional setting, which I can now apply in interviews and workplace interactions.  
+- **Result:** I achieved an overall score of **100**. The course improved my understanding of how to communicate clearly and respectfully in a professional setting, which I can now apply in interviews and workplace interactions.  
 
 ---
 ## 2. INTERVIEW SKILLS.
 
 ### EVIDENCE.  
-I completed the **Interview Skills** course and gained a full understanding of how to prepare for and conduct myself during a job interview.  
-The lessons covered the **purpose of interviews**, **researching companies**, and techniques like the **CAR method (Context, Action, Result)** for answering behavioral questions.  
-The quizzes tested my knowledge on answering questions such as *“Tell me about yourself”* and *“What is your greatest weakness?”*  
+I completed the Interview Skills course and gained a full understanding of how to prepare for and conduct myself during a job interview.  
+The lessons covered the purpose of interviews, researching companies, and techniques like the CAR method (Context, Action, Result) for answering behavioral questions.  
+The quizzes tested my knowledge on answering questions such as *“Tell me about yourself”* and “What is your greatest weakness?”  
 
 I completed the course with a **100% score**, showing strong comprehension of the interview process and techniques.
 
@@ -80,9 +80,9 @@ You can watch it [here](https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/
 ## 4. PROFESSIONAL NETWORKING.
 
 ### EVIDENCE.
-I completed the **Professional Networking** course and learned how important it is to build meaningful connections in the IT industry.  
-The course explained the **purpose of networking**, how to approach networking events, and the importance of the **“golden rule” of networking — give before you get.**  
-I also learned how to create and maintain professional relationships through platforms like **LinkedIn** and industry meetups.  
+I completed the Professional Networking course and learned how important it is to build meaningful connections in the IT industry.  
+The course explained the purpose of networking, how to approach networking events, and the importance of the “golden rule” of networking — give before you get.  
+I also learned how to create and maintain professional relationships through platforms like LinkedIn and industry meetups.  
 
 I achieved a **100% score**, showing my clear understanding of how professional networking supports career growth and future opportunities.  
 
@@ -100,13 +100,13 @@ I achieved a **100% score**, showing my clear understanding of how professional 
 - **Situation:** During the Work Readiness module, I was required to complete the Professional Networking course to improve my understanding of building professional connections.  
 - **Task:** My aim was to learn how to approach networking situations confidently and to understand the value of professional relationships in the tech field.  
 - **Action:** I completed the lessons and quizzes, learning the importance of attending networking events, maintaining professionalism online, and following up with new contacts.  
-- **Result:** I achieved **100%** in the course, and I now understand how networking can open doors to mentorships, job opportunities, and collaborations in areas like networking and cybersecurity. I’ve since started improving my **LinkedIn** profile and plan to attend
+- **Result:** I achieved **100%** in the course, and I now understand how networking can open doors to mentorships, job opportunities, and collaborations in areas like networking and cybersecurity. I’ve since started improving my LinkedIn profile and plan to attend
 ---
 ## 5. WORKPLACE ETIQUETTE.  
 
 ### EVIDENCE.  
-I completed the **Workplace Etiquette** course, which taught me how to behave professionally in an office or remote work environment.  
-The lessons covered topics such as **email etiquette**, **confidentiality**, **meeting punctuality**, and **responsible phone use**.  
+I completed the Workplace Etiquette course, which taught me how to behave professionally in an office or remote work environment.  
+The lessons covered topics such as email etiquette, confidentiality, meeting punctuality, and responsible phone use.  
 I learned how to respond professionally to difficult messages, respect workplace rules, and maintain a positive attitude in all interactions.  
 
 I achieved a **100% score** after completing all lessons and quizzes, which shows my understanding of appropriate workplace behavior.  
@@ -131,10 +131,10 @@ I achieved a **100% score** after completing all lessons and quizzes, which show
 
 ## CONCLUSION.  
 
-Completing the **Work Readiness Training** helped me understand what it takes to transition from being a student to a professional in the IT industry.  
-Through the different modules  **Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette** I developed both soft and professional skills that will guide me in real-world work environments.  
+Completing the Work Readiness Training helped me understand what it takes to transition from being a student to a professional in the IT industry.  
+Through the different modules  Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette I developed both soft and professional skills that will guide me in real-world work environments.  
 
 This portfolio shows how I’ve grown in my confidence, communication, and professionalism.  
 It also helped me discover how to present myself better during interviews, build valuable professional connections, and maintain ethical conduct in the workplace.  
 
-Overall, this experience prepared me for the next stage of my career in **networking, cybersecurity, and cloud computing**, and gave me the tools to succeed both technically and professionally.  
+Overall, this experience prepared me for the next stage of my career in networking, cybersecurity, and cloud computing, and gave me the tools to succeed both technically and professionally.  
