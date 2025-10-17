@@ -40,7 +40,12 @@ The quizzes tested my knowledge on answering questions such as *“Tell me about
 I completed the course with a **100% score**, showing strong comprehension of the interview process and techniques.
 
 **Attached Evidence:**  
-📎 <img width="1615" height="952" alt="image" src="https://github.com/user-attachments/assets/97a7eadc-3899-4f1c-9e55-da073264b2a6" />
+📎 <img width="1851" height="1004" alt="Screenshot 2025-10-15 210747" src="https://github.com/user-attachments/assets/6dac383b-152d-4c9e-abd0-f1c47eca331e" />
+<img width="1829" height="994" alt="Screenshot 2025-10-15 210813" src="https://github.com/user-attachments/assets/bf7f85db-75ac-4c32-91a0-62f529e35cbc" />
+<img width="1784" height="824" alt="Screenshot 2025-10-15 210844" src="https://github.com/user-attachments/assets/191685ac-79ca-4808-8c7d-9eab5ccb4be8" />
+
+
+
 
 ---
 
@@ -82,7 +87,12 @@ I also learned how to create and maintain professional relationships through pla
 I achieved a **100% score**, showing my clear understanding of how professional networking supports career growth and future opportunities.  
 
 **Attached Evidence:**  
-📎 <img width="1633" height="898" alt="image" src="https://github.com/user-attachments/assets/44f1b7da-73d4-457d-82c9-6d1679612aaf" />
+<img width="1901" height="998" alt="Screenshot 2025-10-15 211414" src="https://github.com/user-attachments/assets/69a1019d-7e75-40a6-ad25-d766dd39d684" />
+<img width="1873" height="970" alt="Screenshot 2025-10-15 211450" src="https://github.com/user-attachments/assets/2aa65548-4e4e-4474-accf-7003100dd20b" />
+<img width="1791" height="828" alt="Screenshot 2025-10-15 211520" src="https://github.com/user-attachments/assets/738c22a4-533a-4fa2-b4d3-249beb6bf68f" />
+
+
+
 
 ---
 
@@ -102,7 +112,12 @@ I learned how to respond professionally to difficult messages, respect workplace
 I achieved a **100% score** after completing all lessons and quizzes, which shows my understanding of appropriate workplace behavior.  
 
 **Attached Evidence:**  
-📎 <img width="1640" height="807" alt="Screenshot 2025-10-13 201212" src="https://github.com/user-attachments/assets/b6fd565b-80ef-4e07-a3c7-e115d291da12" />
+📎<img width="1910" height="999" alt="Screenshot 2025-10-15 211732" src="https://github.com/user-attachments/assets/b89d9ef2-7b1a-43ef-a762-62bbc11706c7" />
+<img width="1877" height="973" alt="Screenshot 2025-10-15 211752" src="https://github.com/user-attachments/assets/d7a1e678-9430-4b16-b026-a9e592f20788" />
+<img width="1852" height="830" alt="Screenshot 2025-10-15 211810" src="https://github.com/user-attachments/assets/6741db62-f303-4a5d-a289-9c94979a4c6e" />
+
+
+
 
 ---
 
