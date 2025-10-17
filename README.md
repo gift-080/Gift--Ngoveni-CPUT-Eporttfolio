@@ -1,4 +1,4 @@
-# My Digital Portfolio  
+# MY DIGITAL PORTFOLIO.
 
 - **FULL NAMES:** NGOVENI NDZALAMA GIFT  
 - **STUDENT NO.:** 230125239  
@@ -8,9 +8,9 @@ As a dedicated IT student with a strong passion for Linux, networking, cyber sec
 
 ---
 
-## 1. Business Communication  
+## 1. BUSSINESS COMMUNICATION. 
 
-### Evidence  
+### EVIDENCE. 
 I completed the **Business Communication** course, which helped me understand how effective communication plays a key role in a professional environment.  
 Through the lessons and quizzes, I learned about different communication types, when to use formal language, and the importance of maintaining a professional tone in business emails.  
 
@@ -30,9 +30,9 @@ Through the lessons and quizzes, I learned about different communication types, 
 - **Result:** I achieved an overall score of **80%**. The course improved my understanding of how to communicate clearly and respectfully in a professional setting, which I can now apply in interviews and workplace interactions.  
 
 ---
-## 2. Interview Skills  
+## 2. INTERVIEW SKILLS.
 
-### Evidence  
+### EVIDENCE.  
 I completed the **Interview Skills** course and gained a full understanding of how to prepare for and conduct myself during a job interview.  
 The lessons covered the **purpose of interviews**, **researching companies**, and techniques like the **CAR method (Context, Action, Result)** for answering behavioral questions.  
 The quizzes tested my knowledge on answering questions such as *“Tell me about yourself”* and *“What is your greatest weakness?”*  
@@ -57,9 +57,9 @@ I completed the course with a **100% score**, showing strong comprehension of th
 
 ---
 
-## 3. Mock Interview  
+## 3. MOCK INTERVIEW.  
 
-### Evidence  
+### EVIDENCE.  
 I submitted a mock interview video to demonstrate my interview delivery, body language, and response structure.  
 You can watch it [here](https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/blob/bd63b791e5cf1cea0db253144e0071da0616400f/Mock%20Interview(2).mp4).  
 
@@ -77,9 +77,9 @@ You can watch it [here](https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/
 - **Result:** The mock video shows my ability to stay composed and structured in responses. I identified areas to refine (e.g. expand technical examples, reduce filler words) and can now improve those for real interviews.  
 
 ---
-## 4. Professional Networking  
+## 4. PROFESSIONAL NETWORKING.
 
-### Evidence  
+### EVIDENCE.
 I completed the **Professional Networking** course and learned how important it is to build meaningful connections in the IT industry.  
 The course explained the **purpose of networking**, how to approach networking events, and the importance of the **“golden rule” of networking — give before you get.**  
 I also learned how to create and maintain professional relationships through platforms like **LinkedIn** and industry meetups.  
@@ -96,15 +96,15 @@ I achieved a **100% score**, showing my clear understanding of how professional 
 
 ---
 
-### Reflection (STAR Technique) – Professional Networking  
+### Reflection (STAR Technique) – Professional Networking 
 - **Situation:** During the Work Readiness module, I was required to complete the Professional Networking course to improve my understanding of building professional connections.  
 - **Task:** My aim was to learn how to approach networking situations confidently and to understand the value of professional relationships in the tech field.  
 - **Action:** I completed the lessons and quizzes, learning the importance of attending networking events, maintaining professionalism online, and following up with new contacts.  
 - **Result:** I achieved **100%** in the course, and I now understand how networking can open doors to mentorships, job opportunities, and collaborations in areas like networking and cybersecurity. I’ve since started improving my **LinkedIn** profile and plan to attend
 ---
-## 5. Workplace Etiquette  
+## 5. WORKPLACE ETIQUETTE.  
 
-### Evidence  
+### EVIDENCE.  
 I completed the **Workplace Etiquette** course, which taught me how to behave professionally in an office or remote work environment.  
 The lessons covered topics such as **email etiquette**, **confidentiality**, **meeting punctuality**, and **responsible phone use**.  
 I learned how to respond professionally to difficult messages, respect workplace rules, and maintain a positive attitude in all interactions.  
@@ -129,7 +129,7 @@ I achieved a **100% score** after completing all lessons and quizzes, which show
 
 ---
 
-## Conclusion  
+## CONCLUSION.  
 
 Completing the **Work Readiness Training** helped me understand what it takes to transition from being a student to a professional in the IT industry.  
 Through the different modules  **Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette** I developed both soft and professional skills that will guide me in real-world work environments.  
