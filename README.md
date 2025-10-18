@@ -27,7 +27,7 @@ Through the lessons and quizzes, I learned about different communication types, 
 - **Situation:** As part of the Work Readiness Training, I was required to complete an online Business Communication course to enhance my professional communication skills.  
 - **Task:** My goal was to learn the proper use of language, tone, and etiquette in both written and verbal communication within the workplace.  
 - **Action:** I completed the course modules and quizzes, focusing on topics like non-verbal communication, formal vs informal tone, email etiquette, and video conferencing professionalism.  
-- **Result:** I achieved an overall score of **100**. The course improved my understanding of how to communicate clearly and respectfully in a professional setting, which I can now apply in interviews and workplace interactions.  
+- **Result:** I achieved an overall score of **100%**. The course improved my understanding of how to communicate clearly and respectfully in a professional setting, which I can now apply in interviews and workplace interactions.  
 
 ---
 ## 2. INTERVIEW SKILLS.
